@@ -1,0 +1,16 @@
+{
+  "name": "dealmemo",
+  "version": "1.0.0",
+  "description": "AI-powered VC deal memo generator",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build step required'"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0"
+  },
+  "devDependencies": {
+    "vercel": "^39.0.0"
+  }
+}
